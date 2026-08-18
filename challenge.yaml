@@ -1,0 +1,7 @@
+slug: cbc-bit-flip
+title: CBC Bit Flip
+category: cryptography
+difficulty: hard
+points: 400
+codec: fernet
+repo_url: https://github.com/sparflag/cbc-bit-flip
